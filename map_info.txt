@@ -1,0 +1,5 @@
+<DON'T CHANGE ONLY TEXT BETWEEN QUATATION MARKS! THIS FILE MUST BE IN SAME DIRECTORY OF THE CORRECTION PROGRAM. DON'T USE SPACES AFTER MARKS.>
+<For map size choices are: tiny/small/normal/medium/large/very large/giant>
+<.XML FILE PATH:>/home/baelish/Scrivania
+<.XML FILE NAME:>example_before.xml
+<MAP SIZE(LOWCASE):>giant
